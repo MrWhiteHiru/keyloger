@@ -1,4 +1,4 @@
-
+#code by mr white hiru
 import win32clipboard
 file_path = "D:\key"
 extend="\\"
